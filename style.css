@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerBox{
+    width: 30vw;
+    height: 30vw;
+    border: 2px solid blue;
+
+}
+
+.square{
+    width: 10vw;
+    height: 10vw;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: gray;
+}
+
+.square2{
+    width: 16vw;
+    height: 10vw;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: silver;
+}
+
+#result, #resultARS, #resultUSD{
+    width: 10vw;
+    height: 3vh;
+    border: 1px solid black;
+}
+
+.coin1, .coin2{
+    width: 25vw;
+    height: 3vh;
+}
